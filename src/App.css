@@ -1,0 +1,10 @@
+.imm img{
+  height: 150px;
+  width: 150px;
+  border: 2px solid black;
+  border-radius: 50%;
+}
+p{
+  margin-top: 0;
+  padding-top: 0;
+}
